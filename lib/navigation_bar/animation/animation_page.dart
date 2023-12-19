@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
-import '../news/ui/storypage.dart';
-import '../news/ui/util/story_circles.dart';
+import 'storypage.dart';
+import 'util/story_circles.dart';
 
 class AnimationPage extends StatelessWidget {
   const AnimationPage({super.key});
